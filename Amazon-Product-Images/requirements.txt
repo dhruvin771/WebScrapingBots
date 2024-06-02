@@ -1,0 +1,4 @@
+dotenv==0.0.5
+telebot==0.0.5
+validators==0.28.3
+selenium==4.21.0
