@@ -1,8 +1,9 @@
-## WebScrapingBots
+# WebScrapingBots
 
 ### Bots 
-1. Amazon Product Image Scraping Bot
-2. Coming Soon...
+1. Amazon Product Image Scraping
+2. Thread Video Scraper 
+3. Coming Soon...
 
 ### 1. Amazon Product Image Scraping Bot
 
@@ -36,6 +37,20 @@ This Telegram bot allows users to fetch all high-resolution images associated wi
   <img src="https://raw.githubusercontent.com/dhruvin771/WebScrapingBots/main/Amazon-Product-Images/images/2.png" width="270" alt="Screenshot 2" />
   <img src="https://raw.githubusercontent.com/dhruvin771/WebScrapingBots/main/Amazon-Product-Images/images/3.png" width="270" alt="Screenshot 3" />
 </p>
+
+### 2. Thread Video Scraper Bot
+
+This Telegram bot allows users to fetch and download videos from a given thread URL by utilizing web scraping techniques.
+
+#### Features:
+- Fetches and downloads videos from thread URLs.
+- Validates input to ensure it is a URL.
+- Notifies the user if no video is found.
+
+#### Usage:
+1. Start the bot by sending the command `/start`.
+2. Send a thread URL to the bot.
+3. Receive the video associated with the thread if available.
 
 ### Contributing
 Contributions are welcome! If you'd like to contribute to Scraping Bot, please fork the repository, make your changes, and submit a pull request.
