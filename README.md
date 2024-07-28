@@ -3,7 +3,7 @@
 ### Bots 
 1. Amazon Product Image Scraping
 2. Thread Video Scraper 
-3. Coming Soon...
+3. Telegram Mini App Coming Soon...
 
 ### 1. Amazon Product Image Scraping Bot
 
